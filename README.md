@@ -2,7 +2,7 @@
 
 本仓库脚本仅用于交流学习，请下载后24之内自行删除
 
-# 京东挂机
-京东车, 支持APP扫二维码登录和手机打开授权登录:
-
-https://ark.leafxxx.win
+# 青龙挂机
+1、在青龙面板添加订阅
+ql repo https://ghproxy.smallfawn.top/https://github.com/wifisky-feilian/QL_AT.git
+2、在环境变量中添加Cookie
